@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Данные товаров (можно заменить на загрузку с сервера)
+    
     const products = [
         {
             image: "images/holodolnik.png",
